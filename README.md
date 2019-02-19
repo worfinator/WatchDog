@@ -3,7 +3,7 @@ Python script to observe a directory for file changes, then upload the files to 
 
 ## Requirements
 
-WatchDog uses the Python [Notifier](https://github.com/worfinator/Notifier) module to be already installed in order to send emails and push notifications
+WatchDog uses the Python [Notifier](https://github.com/worfinator/Notifier) module to be already installed in the `/usr/local/bin/` directory in order to send emails and push notifications
 
 ## Installation 
 
